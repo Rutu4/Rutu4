@@ -23,7 +23,7 @@
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: https://www.linkedin.com/in/rutu-gaikwad-b9b1221a3
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My celebrity crush is Abinav shukla ❤️.
+- ⚡ Fun fact: My celebrity crush is Abinav Shukla ❤️.
 
  [![Linkedin: Rutu](https://img.shields.io/badge/-Rutu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rutu-gaikwad-b9b1221a3"/)](https://www.linkedin.com/in/rutu-gaikwad-b9b1221a3"/)
 [![GitHub Rutu](https://img.shields.io/github/followers/Rutu4?label=follow&style=social)](https://github.com/Rutu4)
@@ -36,7 +36,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <a href="https://github.com/Rutu4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu4&theme=light&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu4&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Rutu4">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rutu4&show_icons=true&theme=light&line_height=27" alt="Rutu's github stats"/>
